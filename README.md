@@ -49,5 +49,8 @@ I'm a passionate developer currently pursuing a BSc in IT at SLIIT 🇱🇰. I w
 - 📦 [Inventory System](https://github.com/your-repo) – Spring Boot backend + React frontend for real-time data tracking
 
 ---
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishangimhan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishangimhan&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishangimhan&theme=radical)
 
 > "Learning by building" is my motto. Let’s connect and build something awesome together!
