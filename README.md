@@ -20,8 +20,8 @@ I'm a passionate developer currently pursuing a BSc in IT at SLIIT 🇱🇰. I w
   React.js, Node.js, Express, MongoDB, REST APIs, Tailwind, Git & GitHub
 
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishan-gimhan)  
-  📧 Email: dishan.gimhan@example.com *(replace with your real email)*
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishangimhan)  
+  📧 Email: kdgimhan@gmail.com *(replace with your real email)*
 
 - ⚡ Fun fact:  
   I’m building tech solutions for elephants… and one day, I want to launch a startup that empowers students & early devs with real-world projects 🚀
