@@ -29,11 +29,11 @@ I'm a passionate developer currently pursuing a BSc in IT at SLIIT 🇱🇰. I w
 ---
 
 ### 📊 GitHub Stats
-![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishangimhan&show_icons=true&theme=radical)
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishangimha24n&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishangimhan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishangimhan24&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishangimhan&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishangimhan24&theme=radical)
 
 ---
 
